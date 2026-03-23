@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Youssef Habib
+# 👋🏻 Hey, I'm Youssef Habib
 
 ### 🚀 Flutter Engineer | Backend-in-Progress (Node.js) | Game Dev Enthusiast
 
